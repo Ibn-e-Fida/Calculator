@@ -1,2 +1,2 @@
 # Calculator
-A new simple calculator using typescript.
+Develop a CLI Calculator using TypeScript and Node.js 
